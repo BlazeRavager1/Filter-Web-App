@@ -1,22 +1,8 @@
-h3 {
-  font-size: 25px !important;
+h1 {
+  font-size: 45px;
+  color: white;
 }
 
-.btn-success:hover {
+btn-success:hover {
   background-color: red;
-}
-
-canvas {
-  animation-name: Random;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes Random {
-  from {
-    box-shadow: 1px 1px 30px red;
-  }
-  to {
-    box-shadow: 1px 1px 30px yellow;
-  }
 }
